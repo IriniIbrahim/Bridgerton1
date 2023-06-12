@@ -3,6 +3,7 @@ const main = document.getElementById('main');
 let parts = [];
 
 let images = [
+	"img/img1.jpg",
 	"img/charlotte.webp",
 	"img/new.jpg",
 	"img/bust-of-queen-charlotte.jpg"
